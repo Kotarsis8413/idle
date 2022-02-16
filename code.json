@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>bebra</title>
+    <title>KoteTop_8414/idle</title>
 </head>
 <body>
     <a href="players.html"><button>Игроки</button></a>
@@ -11,12 +11,15 @@
  <button onclick="opensitegg()">создатель</button>
  <br>
  <br>
- <a href="index.html" download=""><button>Исходный код</button></a>
+ <a href="code.json" download=""><button>Исходный код</button></a>
+ <br>
+ <br>
+ <a href="install.html"><button>всякие проэкты</button></a>
  
  
  <script>
   function opensitegg () {
-      alert("KoteTop_8413 (kotetop8414)");
+      alert("KoteTop_8413 (kotetop8414) сделанно на языке HTML");
   }  
  </script>
  
