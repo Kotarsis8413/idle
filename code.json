@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bebra</title>
+</head>
+<body>
+    <a href="players.html"><button>Игроки</button></a>
+ <br>
+ <br>
+ <button onclick="opensitegg()">создатель</button>
+ <br>
+ <br>
+ <a href="index.html" download=""><button>Исходный код</button></a>
+ 
+ 
+ <script>
+  function opensitegg () {
+      alert("KoteTop_8413 (kotetop8414)");
+  }  
+ </script>
+ 
+ <script>
+ 
+ </script>
+</body>
+</html>
